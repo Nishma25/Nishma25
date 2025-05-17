@@ -28,7 +28,7 @@
 
 ## 🏆 Achievements
 
-- 🎓 **4.0 GPA** — UTD Master's Program  
+- 🎓 **"Summa cum laude** — 4.0 CGPA UTD Master's Program  
 - 🥇 **Impact Award** — Carelon, for exceptional performance  
 - 🎖️ **Lars Magnus Ericsson Fellowship** — Academic Excellence
 
@@ -36,7 +36,7 @@
 
 ## 💼 Work Experience
 
-### Software Engineer II — **Carelon (Elevance Health)**
+### Software Engineer II — **Elevance Health**
 *May 2022 – Jul 2023* | Hyderabad, India  
 - Rebuilt web portal using Angular, reducing bundle size by 35%  
 - Designed secured REST APIs using Node.js and JWT  
