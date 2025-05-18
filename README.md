@@ -28,7 +28,7 @@
 
 ## 🏆 Achievements
 
-- 🎓 **"Summa cum laude** — 4.0 CGPA UTD Master's Program  
+- 🎓 **Summa cum laude** — 4.0 CGPA UTD Master's Program  
 - 🥇 **Impact Award** — Carelon, for exceptional performance  
 - 🎖️ **Lars Magnus Ericsson Fellowship** — Academic Excellence
 
