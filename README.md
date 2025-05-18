@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nishma Nalari
 
 🎓 **Graduate Student @ University of Texas at Dallas**  
-🔍 Actively seeking Full-Time Software Developer roles (Available May 2025)  
+🔍 Actively seeking Full-Time Software Developer roles  
 📧 nalarinishma@gmail.com | 📍 Dallas, TX | [LinkedIn](https://www.linkedin.com/in/nalari-nishma/)
 
 ---
@@ -51,6 +51,12 @@
 
 ---
 
+## 📁 Portfolio
+
+Check out my work and live projects here:  
+🌐 [React Portfolio](https://nishma25.github.io/React-Portfolio/)
+
+
 ## 🚀 Projects
 
 ### 🍽️ **Feast-IT (Uber Eats Clone)**  
@@ -82,7 +88,8 @@ University of Texas at Dallas | Spring 2024
 ## 📫 Let's Connect
 
 - Email: nalarinishma@gmail.com  
-- LinkedIn: [nalari-nishma](https://www.linkedin.com/in/nalari-nishma/)
+- LinkedIn: [nalari-nishma](https://www.linkedin.com/in/nalari-nishma/)  
+- Portfolio: [React Portfolio](https://nishma25.github.io/React-Portfolio/)
 
 ---
 
