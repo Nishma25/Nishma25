@@ -2,7 +2,7 @@
 
 🎓 **Graduate Student @ University of Texas at Dallas**  
 🔍 Actively seeking Full-Time Software Developer roles  
-📧 nalarinishma@gmail.com | 📍 Dallas, TX | [LinkedIn](https://www.linkedin.com/in/nalari-nishma/)
+📧 nalarinishma@gmail.com | 📍 Dallas, TX | [LinkedIn](https://www.linkedin.com/in/nalari-nishma/) | [Portfolio](https://nishma25.github.io/React-Portfolio/)
 
 ---
 
@@ -113,7 +113,6 @@ University of Texas at Dallas | Spring 2024
 
 - 📧 **Email:** nalarinishma@gmail.com  
 - 💼 **LinkedIn:** [nalari-nishma](https://www.linkedin.com/in/nalari-nishma/)  
-- 🌐 **Portfolio:** [React Portfolio](https://nishma25.github.io/React-Portfolio/)
 - 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1sorrKeTglYwcXQYl2mgoPoOoLVjhwrQd/view?usp=drive_link)
 
 ---
